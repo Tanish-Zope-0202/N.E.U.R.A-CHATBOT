@@ -6,7 +6,7 @@ A Flask-based chatbot that uses Google's Gemini AI for conversations and OpenWea
 
 - Chat with Gemini AI
 - Get weather information for any city
-- Upload and query documents (supports PDF, TXT, MD, PY, CSV)
+- Upload and query documents (supports PDF)
 - Web interface with multiple themes
 
 ## Setup
@@ -59,3 +59,4 @@ OPENWEATHER_KEY=your_openweather_api_key_here
 - `templates/`: HTML templates
 - `uploaded_files/`: Directory for uploaded documents
 - `requirements.txt`: Project dependencies
+
