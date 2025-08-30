@@ -60,3 +60,20 @@ OPENWEATHER_KEY=your_openweather_api_key_here
 - `uploaded_files/`: Directory for uploaded documents
 - `requirements.txt`: Project dependencies
 
+## N.E.U.R.A_SCREENSHOTS
+
+<img width="2796" height="1429" alt="image" src="https://github.com/user-attachments/assets/8ae6b604-51d3-45e6-9c24-cac06d4a3c7f" />
+
+...
+...
+...
+
+<img width="2792" height="1422" alt="image" src="https://github.com/user-attachments/assets/c80d9522-0165-48ce-86e3-21691c4db4bf" />
+
+...
+...
+...
+
+<img width="2800" height="1427" alt="image" src="https://github.com/user-attachments/assets/dc604120-faef-4d3e-b7c0-74909049f68b" />
+
+
