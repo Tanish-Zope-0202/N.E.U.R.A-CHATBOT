@@ -76,4 +76,10 @@ OPENWEATHER_KEY=your_openweather_api_key_here
 
 <img width="2800" height="1427" alt="image" src="https://github.com/user-attachments/assets/dc604120-faef-4d3e-b7c0-74909049f68b" />
 
+...
+...
+...
+
+https://github.com/user-attachments/assets/1cfdf99d-dbf9-41c1-bdf0-f7212d5e7106
+
 
